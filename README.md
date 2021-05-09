@@ -128,3 +128,5 @@ After identifying important predictors, display them visually - you can use plot
 
 
 Finally, recommend strategies to manage customer churn based on your observations.
+
+## Teh dataset can be downloaded from the link: https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
